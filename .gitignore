@@ -3,4 +3,4 @@ server/node_modules/
 server/.env
 server/data/
 server/*.log
-client/.env.local
+client/.env.localserver/.env.example
