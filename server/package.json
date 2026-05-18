@@ -1,0 +1,27 @@
+{
+  "name": "ai-cricket-quiz-battle-live-server",
+  "version": "1.0.0",
+  "description": "Live IPL multiplayer quiz backend using Express, Socket.io, Gemini, Cricket API, and in-memory room storage.",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon --ignore data/** server.js",
+    "start": "node server.js",
+    "check": "node --check server.js"
+  },
+  "dependencies": {
+    "@google/genai": "^1.33.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "socket.io": "^4.8.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  },
+  "nodemonConfig": {
+    "ignore": [
+      "data/**"
+    ]
+  }
+}
