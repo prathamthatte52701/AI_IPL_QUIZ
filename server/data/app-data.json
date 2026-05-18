@@ -38,13 +38,13 @@
     },
     {
       "userId": "u-1779038936254-183f649c0e5578",
-      "playerName": "Pratham Thatte",
-      "totalPoints": 797,
-      "matchesPlayed": 3,
-      "wins": 3,
-      "bestScore": 399,
+      "playerName": "pratham thatte",
+      "totalPoints": 1201,
+      "matchesPlayed": 4,
+      "wins": 4,
+      "bestScore": 404,
       "createdAt": "2026-05-17T17:28:56.253Z",
-      "updatedAt": "2026-05-18T10:06:35.798Z",
+      "updatedAt": "2026-05-18T19:37:26.817Z",
       "email": "prathamthatte527@gmail.com",
       "passwordHash": "cee710d5e2ab19a7f1eb5f0a936aaceb:08442e633beaee4c7c1a1a27f8fe687f5e0b0e4a51a610f1080b8121b41711cb7fb67c6a4c24e99befad504cf6e0329d187afae5fd452b9396c25500f751f01c"
     },
@@ -201,6 +201,20 @@
       "totalAnswers": 5,
       "won": true,
       "completedAt": "2026-05-18T10:06:35.798Z"
+    },
+    {
+      "id": "result-AWTJ-p-1779133011441-15307ff224f158-1779133046817",
+      "userId": "u-1779038936254-183f649c0e5578",
+      "roomCode": "AWTJ",
+      "matchId": "demo-ipl-mi-csk-live",
+      "matchName": "Mumbai Indians vs Chennai Super Kings",
+      "score": 404,
+      "pointsEarned": 404,
+      "rank": 1,
+      "correctAnswers": 2,
+      "totalAnswers": 5,
+      "won": true,
+      "completedAt": "2026-05-18T19:37:26.817Z"
     }
   ]
 }

@@ -49,7 +49,7 @@
       "battingTeam": "Mumbai Indians",
       "bowlingTeam": "Chennai Super Kings",
       "battingScore": {
-        "runs": 145,
+        "runs": 149,
         "wickets": 7,
         "overs": "12.3"
       },
@@ -58,7 +58,7 @@
         "wickets": 0,
         "overs": "0.0"
       },
-      "overText": "13.1",
+      "overText": "13.2",
       "runRate": 11.6,
       "currentBatsman": {
         "name": "Set batter",
@@ -110,22 +110,22 @@
           "text": "Ishan Kishan was dismissed by Tushar Deshpande"
         },
         {
+          "type": "four",
+          "player": "Ishan Kishan",
+          "bowler": "Tushar Deshpande",
+          "runs": 4,
+          "text": "Ishan Kishan scored 4 runs off Tushar Deshpande"
+        },
+        {
           "type": "six",
           "player": "Ishan Kishan",
           "bowler": "Tushar Deshpande",
           "runs": 6,
           "text": "Ishan Kishan launched a six over mid-wicket"
-        },
-        {
-          "type": "four",
-          "player": "Tilak Varma",
-          "bowler": "Ravindra Jadeja",
-          "runs": 4,
-          "text": "Tilak Varma found the cover boundary"
         }
       ],
       "source": "demo-live-fallback",
-      "fetchedAt": 1779098807501
+      "fetchedAt": 1779133049536
     },
     "createdAt": 1779039969669
   },
@@ -179,7 +179,7 @@
       "battingTeam": "Mumbai Indians",
       "bowlingTeam": "Chennai Super Kings",
       "battingScore": {
-        "runs": 145,
+        "runs": 149,
         "wickets": 7,
         "overs": "12.3"
       },
@@ -188,7 +188,7 @@
         "wickets": 0,
         "overs": "0.0"
       },
-      "overText": "13.1",
+      "overText": "13.2",
       "runRate": 11.6,
       "currentBatsman": {
         "name": "Set batter",
@@ -240,22 +240,22 @@
           "text": "Ishan Kishan was dismissed by Tushar Deshpande"
         },
         {
+          "type": "four",
+          "player": "Ishan Kishan",
+          "bowler": "Tushar Deshpande",
+          "runs": 4,
+          "text": "Ishan Kishan scored 4 runs off Tushar Deshpande"
+        },
+        {
           "type": "six",
           "player": "Ishan Kishan",
           "bowler": "Tushar Deshpande",
           "runs": 6,
           "text": "Ishan Kishan launched a six over mid-wicket"
-        },
-        {
-          "type": "four",
-          "player": "Tilak Varma",
-          "bowler": "Ravindra Jadeja",
-          "runs": 4,
-          "text": "Tilak Varma found the cover boundary"
         }
       ],
       "source": "demo-live-fallback",
-      "fetchedAt": 1779098807501
+      "fetchedAt": 1779133049536
     },
     "createdAt": 1779040017444
   },
@@ -311,7 +311,7 @@
       "battingTeam": "Mumbai Indians",
       "bowlingTeam": "Chennai Super Kings",
       "battingScore": {
-        "runs": 145,
+        "runs": 149,
         "wickets": 7,
         "overs": "12.3"
       },
@@ -320,7 +320,7 @@
         "wickets": 0,
         "overs": "0.0"
       },
-      "overText": "13.1",
+      "overText": "13.2",
       "runRate": 11.6,
       "currentBatsman": {
         "name": "Set batter",
@@ -372,22 +372,22 @@
           "text": "Ishan Kishan was dismissed by Tushar Deshpande"
         },
         {
+          "type": "four",
+          "player": "Ishan Kishan",
+          "bowler": "Tushar Deshpande",
+          "runs": 4,
+          "text": "Ishan Kishan scored 4 runs off Tushar Deshpande"
+        },
+        {
           "type": "six",
           "player": "Ishan Kishan",
           "bowler": "Tushar Deshpande",
           "runs": 6,
           "text": "Ishan Kishan launched a six over mid-wicket"
-        },
-        {
-          "type": "four",
-          "player": "Tilak Varma",
-          "bowler": "Ravindra Jadeja",
-          "runs": 4,
-          "text": "Tilak Varma found the cover boundary"
         }
       ],
       "source": "demo-live-fallback",
-      "fetchedAt": 1779098807501
+      "fetchedAt": 1779133049536
     },
     "createdAt": 1779040044232
   },
@@ -441,7 +441,7 @@
       "battingTeam": "Mumbai Indians",
       "bowlingTeam": "Chennai Super Kings",
       "battingScore": {
-        "runs": 145,
+        "runs": 149,
         "wickets": 7,
         "overs": "12.3"
       },
@@ -450,7 +450,7 @@
         "wickets": 0,
         "overs": "0.0"
       },
-      "overText": "13.1",
+      "overText": "13.2",
       "runRate": 11.6,
       "currentBatsman": {
         "name": "Set batter",
@@ -502,22 +502,22 @@
           "text": "Ishan Kishan was dismissed by Tushar Deshpande"
         },
         {
+          "type": "four",
+          "player": "Ishan Kishan",
+          "bowler": "Tushar Deshpande",
+          "runs": 4,
+          "text": "Ishan Kishan scored 4 runs off Tushar Deshpande"
+        },
+        {
           "type": "six",
           "player": "Ishan Kishan",
           "bowler": "Tushar Deshpande",
           "runs": 6,
           "text": "Ishan Kishan launched a six over mid-wicket"
-        },
-        {
-          "type": "four",
-          "player": "Tilak Varma",
-          "bowler": "Ravindra Jadeja",
-          "runs": 4,
-          "text": "Tilak Varma found the cover boundary"
         }
       ],
       "source": "demo-live-fallback",
-      "fetchedAt": 1779098807501
+      "fetchedAt": 1779133049536
     },
     "createdAt": 1779048735825
   },
@@ -636,7 +636,7 @@
         }
       ],
       "source": "demo-live-fallback",
-      "fetchedAt": 1779098807490
+      "fetchedAt": 1779133049533
     },
     "createdAt": 1779048750792
   },
@@ -690,7 +690,7 @@
       "battingTeam": "Mumbai Indians",
       "bowlingTeam": "Chennai Super Kings",
       "battingScore": {
-        "runs": 145,
+        "runs": 149,
         "wickets": 7,
         "overs": "12.3"
       },
@@ -699,7 +699,7 @@
         "wickets": 0,
         "overs": "0.0"
       },
-      "overText": "13.1",
+      "overText": "13.2",
       "runRate": 11.6,
       "currentBatsman": {
         "name": "Set batter",
@@ -751,22 +751,22 @@
           "text": "Ishan Kishan was dismissed by Tushar Deshpande"
         },
         {
+          "type": "four",
+          "player": "Ishan Kishan",
+          "bowler": "Tushar Deshpande",
+          "runs": 4,
+          "text": "Ishan Kishan scored 4 runs off Tushar Deshpande"
+        },
+        {
           "type": "six",
           "player": "Ishan Kishan",
           "bowler": "Tushar Deshpande",
           "runs": 6,
           "text": "Ishan Kishan launched a six over mid-wicket"
-        },
-        {
-          "type": "four",
-          "player": "Tilak Varma",
-          "bowler": "Ravindra Jadeja",
-          "runs": 4,
-          "text": "Tilak Varma found the cover boundary"
         }
       ],
       "source": "demo-live-fallback",
-      "fetchedAt": 1779098807501
+      "fetchedAt": 1779133049536
     },
     "createdAt": 1779097764218
   },
@@ -779,64 +779,9 @@
     "maxQuestions": 5,
     "questionTime": 15,
     "currentQuestionNumber": 5,
-    "currentQuestion": {
-      "id": "q-demo-ipl-rcb-kkr-live-1779097815687-772555",
-      "question": "What is Kolkata Knight Riders's current score in this live match?",
-      "type": "multiple_choice",
-      "options": [
-        "89/3",
-        "109/2",
-        "101/1",
-        "101/2"
-      ],
-      "correct_answer": "101/2",
-      "explanation": "Kolkata Knight Riders are 101/2 after 9.1 overs.",
-      "context": "LIVE - Royal Challengers Bengaluru vs Kolkata Knight Riders, 101/2 in 9.1 overs",
-      "category": "live_match_stats",
-      "difficulty": "medium",
-      "generatedAt": 1779097815687,
-      "matchId": "demo-ipl-rcb-kkr-live",
-      "matchSnapshot": {
-        "matchId": "demo-ipl-rcb-kkr-live",
-        "name": "Royal Challengers Bengaluru vs Kolkata Knight Riders",
-        "team1": "Royal Challengers Bengaluru",
-        "team2": "Kolkata Knight Riders",
-        "battingTeam": "Kolkata Knight Riders",
-        "score": "101/2",
-        "overs": "9.1",
-        "runRate": 10.5,
-        "currentBatsman": {
-          "name": "Sunil Narine",
-          "runs": 52,
-          "balls": 24,
-          "strikeRate": 216.7
-        },
-        "currentBowler": {
-          "name": "Mohammed Siraj",
-          "overs": 2,
-          "runs": 24,
-          "wickets": 1
-        },
-        "lastWicket": {
-          "batsman": "Venkatesh Iyer",
-          "bowler": "Mohammed Siraj",
-          "runs": 17,
-          "balls": 12
-        },
-        "partnership": {
-          "player1": "Sunil Narine",
-          "player2": "Shreyas Iyer",
-          "runs": 49,
-          "balls": 25
-        },
-        "fetchedAt": 1779097815385,
-        "source": "demo-live-fallback"
-      },
-      "source": "fallback-after-gemini-error",
-      "aiError": "{\"error\":{\"code\":400,\"message\":\"API key not valid. Please pass a valid API key.\",\"status\":\"INVALID_ARGUMENT\",\"details\":[{\"@type\":\"type.googleapis.com/google.rpc.ErrorInfo\",\"reason\":\"API_KEY_INVALID\",\"domain\":\"googleapis.com\",\"metadata\":{\"service\":\"generativelanguage.googleapis.com\"}},{\"@type\":\"type.googleapis.com/google.rpc.LocalizedMessage\",\"locale\":\"en-US\",\"message\":\"API key not valid. Please pass a valid API key.\"}]}}"
-    },
-    "currentQuestionStartedAt": 1779097815688,
-    "timeRemaining": 12,
+    "currentQuestion": null,
+    "currentQuestionStartedAt": null,
+    "timeRemaining": 15,
     "timerInterval": null,
     "countdownInterval": null,
     "players": [
@@ -867,9 +812,7 @@
       "What is Kolkata Knight Riders's current score in this live match?",
       "What is Kolkata Knight Riders's current score in this live match?"
     ],
-    "answeredPlayers": [
-      "p-1779097784602-008332c11a2f1"
-    ],
+    "answeredPlayers": [],
     "matchId": "demo-ipl-rcb-kkr-live",
     "liveMatch": {
       "matchId": "demo-ipl-rcb-kkr-live",
@@ -948,7 +891,7 @@
         }
       ],
       "source": "demo-live-fallback",
-      "fetchedAt": 1779098807490
+      "fetchedAt": 1779133049533
     },
     "createdAt": 1779097784603
   },
@@ -961,64 +904,9 @@
     "maxQuestions": 5,
     "questionTime": 15,
     "currentQuestionNumber": 5,
-    "currentQuestion": {
-      "id": "q-demo-ipl-rcb-kkr-live-1779098026317-3e96cd",
-      "question": "What is Sunil Narine's current strike rate?",
-      "type": "multiple_choice",
-      "options": [
-        "238.1",
-        "226.1",
-        "254.1",
-        "208.1"
-      ],
-      "correct_answer": "226.1",
-      "explanation": "Sunil Narine has 52 runs from 23 balls, so the strike rate is 226.1.",
-      "context": "LIVE - Royal Challengers Bengaluru vs Kolkata Knight Riders, 101/2 in 9.0 overs",
-      "category": "live_match_stats",
-      "difficulty": "medium",
-      "generatedAt": 1779098026317,
-      "matchId": "demo-ipl-rcb-kkr-live",
-      "matchSnapshot": {
-        "matchId": "demo-ipl-rcb-kkr-live",
-        "name": "Royal Challengers Bengaluru vs Kolkata Knight Riders",
-        "team1": "Royal Challengers Bengaluru",
-        "team2": "Kolkata Knight Riders",
-        "battingTeam": "Kolkata Knight Riders",
-        "score": "101/2",
-        "overs": "9.0",
-        "runRate": 10.5,
-        "currentBatsman": {
-          "name": "Sunil Narine",
-          "runs": 52,
-          "balls": 23,
-          "strikeRate": 226.1
-        },
-        "currentBowler": {
-          "name": "Mohammed Siraj",
-          "overs": 2,
-          "runs": 24,
-          "wickets": 1
-        },
-        "lastWicket": {
-          "batsman": "Venkatesh Iyer",
-          "bowler": "Mohammed Siraj",
-          "runs": 17,
-          "balls": 12
-        },
-        "partnership": {
-          "player1": "Sunil Narine",
-          "player2": "Shreyas Iyer",
-          "runs": 49,
-          "balls": 24
-        },
-        "fetchedAt": 1779098026113,
-        "source": "demo-live-fallback"
-      },
-      "source": "fallback-after-gemini-error",
-      "aiError": "{\"error\":{\"code\":400,\"message\":\"API key not valid. Please pass a valid API key.\",\"status\":\"INVALID_ARGUMENT\",\"details\":[{\"@type\":\"type.googleapis.com/google.rpc.ErrorInfo\",\"reason\":\"API_KEY_INVALID\",\"domain\":\"googleapis.com\",\"metadata\":{\"service\":\"generativelanguage.googleapis.com\"}},{\"@type\":\"type.googleapis.com/google.rpc.LocalizedMessage\",\"locale\":\"en-US\",\"message\":\"API key not valid. Please pass a valid API key.\"}]}}"
-    },
-    "currentQuestionStartedAt": 1779098026317,
-    "timeRemaining": 0,
+    "currentQuestion": null,
+    "currentQuestionStartedAt": null,
+    "timeRemaining": 15,
     "timerInterval": null,
     "countdownInterval": null,
     "players": [
@@ -1128,7 +1016,7 @@
         }
       ],
       "source": "demo-live-fallback",
-      "fetchedAt": 1779098807490
+      "fetchedAt": 1779133049533
     },
     "createdAt": 1779097940621
   },
@@ -1141,64 +1029,9 @@
     "maxQuestions": 5,
     "questionTime": 15,
     "currentQuestionNumber": 5,
-    "currentQuestion": {
-      "id": "q-demo-ipl-rcb-kkr-live-1779098791055-d4e937",
-      "question": "What is Sunil Narine's current strike rate?",
-      "type": "multiple_choice",
-      "options": [
-        "218.9",
-        "190.9",
-        "172.9",
-        "202.9"
-      ],
-      "correct_answer": "190.9",
-      "explanation": "Sunil Narine has 42 runs from 22 balls, so the strike rate is 190.9.",
-      "context": "LIVE - Royal Challengers Bengaluru vs Kolkata Knight Riders, 91/2 in 8.5 overs",
-      "category": "live_match_stats",
-      "difficulty": "medium",
-      "generatedAt": 1779098791055,
-      "matchId": "demo-ipl-rcb-kkr-live",
-      "matchSnapshot": {
-        "matchId": "demo-ipl-rcb-kkr-live",
-        "name": "Royal Challengers Bengaluru vs Kolkata Knight Riders",
-        "team1": "Royal Challengers Bengaluru",
-        "team2": "Kolkata Knight Riders",
-        "battingTeam": "Kolkata Knight Riders",
-        "score": "91/2",
-        "overs": "8.5",
-        "runRate": 10.5,
-        "currentBatsman": {
-          "name": "Sunil Narine",
-          "runs": 42,
-          "balls": 22,
-          "strikeRate": 190.9
-        },
-        "currentBowler": {
-          "name": "Mohammed Siraj",
-          "overs": 2,
-          "runs": 24,
-          "wickets": 1
-        },
-        "lastWicket": {
-          "batsman": "Venkatesh Iyer",
-          "bowler": "Mohammed Siraj",
-          "runs": 17,
-          "balls": 12
-        },
-        "partnership": {
-          "player1": "Sunil Narine",
-          "player2": "Shreyas Iyer",
-          "runs": 39,
-          "balls": 23
-        },
-        "fetchedAt": 1779098790572,
-        "source": "demo-live-fallback"
-      },
-      "source": "fallback-after-gemini-error",
-      "aiError": "{\"error\":{\"code\":400,\"message\":\"API key not valid. Please pass a valid API key.\",\"status\":\"INVALID_ARGUMENT\",\"details\":[{\"@type\":\"type.googleapis.com/google.rpc.ErrorInfo\",\"reason\":\"API_KEY_INVALID\",\"domain\":\"googleapis.com\",\"metadata\":{\"service\":\"generativelanguage.googleapis.com\"}},{\"@type\":\"type.googleapis.com/google.rpc.LocalizedMessage\",\"locale\":\"en-US\",\"message\":\"API key not valid. Please pass a valid API key.\"}]}}"
-    },
-    "currentQuestionStartedAt": 1779098791055,
-    "timeRemaining": 14,
+    "currentQuestion": null,
+    "currentQuestionStartedAt": null,
+    "timeRemaining": 15,
     "timerInterval": null,
     "countdownInterval": null,
     "players": [
@@ -1229,9 +1062,7 @@
       "What is Kolkata Knight Riders's current score in this live match?",
       "What is Sunil Narine's current strike rate?"
     ],
-    "answeredPlayers": [
-      "p-1779098763054-4bd0f232f90e4"
-    ],
+    "answeredPlayers": [],
     "matchId": "demo-ipl-rcb-kkr-live",
     "liveMatch": {
       "matchId": "demo-ipl-rcb-kkr-live",
@@ -1310,8 +1141,201 @@
         }
       ],
       "source": "demo-live-fallback",
-      "fetchedAt": 1779098807490
+      "fetchedAt": 1779133049533
     },
     "createdAt": 1779098763054
+  },
+  {
+    "roomCode": "AWTJ",
+    "hostPlayerId": "p-1779133011441-15307ff224f158",
+    "difficulty": "medium",
+    "status": "ended",
+    "maxPlayers": 4,
+    "maxQuestions": 5,
+    "questionTime": 15,
+    "currentQuestionNumber": 5,
+    "currentQuestion": {
+      "id": "q-demo-ipl-mi-csk-live-1779133042413-d84667",
+      "question": "How many runs have Ishan Kishan and Tilak Varma added in the current partnership?",
+      "type": "multiple_choice",
+      "options": [
+        "89",
+        "71",
+        "60",
+        "80"
+      ],
+      "correct_answer": "71",
+      "explanation": "The current partnership is 71 runs from 46 balls.",
+      "context": "LIVE - Mumbai Indians vs Chennai Super Kings, 149/3 in 12.4 overs",
+      "category": "partnership",
+      "difficulty": "medium",
+      "generatedAt": 1779133042413,
+      "matchId": "demo-ipl-mi-csk-live",
+      "matchSnapshot": {
+        "matchId": "demo-ipl-mi-csk-live",
+        "name": "Mumbai Indians vs Chennai Super Kings",
+        "team1": "Mumbai Indians",
+        "team2": "Chennai Super Kings",
+        "battingTeam": "Mumbai Indians",
+        "score": "149/3",
+        "overs": "12.4",
+        "runRate": 11.6,
+        "currentBatsman": {
+          "name": "Ishan Kishan",
+          "runs": 38,
+          "balls": 19,
+          "strikeRate": 200
+        },
+        "currentBowler": {
+          "name": "Tushar Deshpande",
+          "overs": 3,
+          "runs": 28,
+          "wickets": 2
+        },
+        "lastWicket": {
+          "batsman": "Rohit Sharma",
+          "bowler": "Tushar Deshpande",
+          "runs": 28,
+          "balls": 22
+        },
+        "partnership": {
+          "player1": "Ishan Kishan",
+          "player2": "Tilak Varma",
+          "runs": 71,
+          "balls": 46
+        },
+        "fetchedAt": 1779133041611,
+        "source": "demo-live-fallback"
+      },
+      "source": "fallback-after-gemini-error",
+      "aiError": "{\"error\":{\"code\":400,\"message\":\"API key not valid. Please pass a valid API key.\",\"status\":\"INVALID_ARGUMENT\",\"details\":[{\"@type\":\"type.googleapis.com/google.rpc.ErrorInfo\",\"reason\":\"API_KEY_INVALID\",\"domain\":\"googleapis.com\",\"metadata\":{\"service\":\"generativelanguage.googleapis.com\"}},{\"@type\":\"type.googleapis.com/google.rpc.LocalizedMessage\",\"locale\":\"en-US\",\"message\":\"API key not valid. Please pass a valid API key.\"}]}}"
+    },
+    "currentQuestionStartedAt": 1779133042414,
+    "timeRemaining": 15,
+    "timerInterval": null,
+    "countdownInterval": null,
+    "players": [
+      {
+        "playerId": "p-1779133011441-15307ff224f158",
+        "userId": "u-1779038936254-183f649c0e5578",
+        "socketId": null,
+        "playerName": "pratham thatte",
+        "difficulty": "medium",
+        "isHost": true,
+        "ready": true,
+        "connected": false,
+        "score": 404,
+        "streak": 0,
+        "bestStreak": 2,
+        "correctAnswers": 2,
+        "wrongAnswers": 3,
+        "totalAnswers": 5,
+        "totalAnswerTime": 10.14,
+        "answeredCurrent": true,
+        "lastPoints": 0
+      }
+    ],
+    "usedQuestions": [
+      "What is Ishan Kishan's current strike rate?",
+      "What is Tilak Varma's current strike rate?",
+      "How many runs have Set batter and Set batter added in the current partnership?",
+      "What is Set batter's current strike rate?",
+      "How many runs have Ishan Kishan and Tilak Varma added in the current partnership?"
+    ],
+    "answeredPlayers": [
+      "p-1779133011441-15307ff224f158"
+    ],
+    "matchId": "demo-ipl-mi-csk-live",
+    "liveMatch": {
+      "matchId": "demo-ipl-mi-csk-live",
+      "name": "Mumbai Indians vs Chennai Super Kings",
+      "series": "Indian Premier League",
+      "team1": "Mumbai Indians",
+      "team2": "Chennai Super Kings",
+      "venue": "Wankhede Stadium, Mumbai",
+      "statusText": "Live - Demo data",
+      "matchType": "t20",
+      "battingTeam": "Mumbai Indians",
+      "bowlingTeam": "Chennai Super Kings",
+      "battingScore": {
+        "runs": 149,
+        "wickets": 7,
+        "overs": "12.3"
+      },
+      "bowlingScore": {
+        "runs": 0,
+        "wickets": 0,
+        "overs": "0.0"
+      },
+      "overText": "13.2",
+      "runRate": 11.6,
+      "currentBatsman": {
+        "name": "Set batter",
+        "runs": 0,
+        "balls": 0,
+        "strikeRate": 0
+      },
+      "currentBowler": {
+        "name": "Tushar Deshpande",
+        "overs": 3,
+        "runs": 28,
+        "wickets": 2
+      },
+      "lastWicket": {
+        "batsman": "Set batter",
+        "bowler": "Tushar Deshpande",
+        "runs": 0,
+        "balls": 1
+      },
+      "partnership": {
+        "player1": "Set batter",
+        "player2": "Set batter",
+        "runs": 0,
+        "balls": 0
+      },
+      "recentEvents": [
+        {
+          "type": "wicket",
+          "player": "Set batter",
+          "bowler": "Tushar Deshpande",
+          "text": "Set batter was dismissed by Tushar Deshpande"
+        },
+        {
+          "type": "wicket",
+          "player": "Set batter",
+          "bowler": "Tushar Deshpande",
+          "text": "Set batter was dismissed by Tushar Deshpande"
+        },
+        {
+          "type": "wicket",
+          "player": "Tilak Varma",
+          "bowler": "Tushar Deshpande",
+          "text": "Tilak Varma was dismissed by Tushar Deshpande"
+        },
+        {
+          "type": "wicket",
+          "player": "Ishan Kishan",
+          "bowler": "Tushar Deshpande",
+          "text": "Ishan Kishan was dismissed by Tushar Deshpande"
+        },
+        {
+          "type": "four",
+          "player": "Ishan Kishan",
+          "bowler": "Tushar Deshpande",
+          "runs": 4,
+          "text": "Ishan Kishan scored 4 runs off Tushar Deshpande"
+        },
+        {
+          "type": "six",
+          "player": "Ishan Kishan",
+          "bowler": "Tushar Deshpande",
+          "runs": 6,
+          "text": "Ishan Kishan launched a six over mid-wicket"
+        }
+      ],
+      "source": "demo-live-fallback",
+      "fetchedAt": 1779133049536
+    },
+    "createdAt": 1779133011442
   }
 ]
