@@ -1,7 +1,4 @@
-
-server/node_modules/
-server/data/
-server/.env
-server/.env.example
+server/data
 .env
 .env.example
+node_modules
